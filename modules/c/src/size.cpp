@@ -1,4 +1,5 @@
-#include <opencv2/c/size.hpp>
+#include </home/w/opencv_contrib/modules/c/include>
+
 
 extern "C" {
     Size* cv_create_Size() {
